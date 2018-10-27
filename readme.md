@@ -8,13 +8,12 @@ Video games have always been rooted into being somewhat violent, with most video
 
 But there are rarely ever any reports of people acting violent from playing "violent" video games, yet there are many people who advocate that violent video games are bad and that they make the player want to comit violent acts.
 
-Games that were controversial that I want to look into:
+Games that were controversial for it's violence that I want to look into:
 - Hatred
 - Mortal Kombat
 - Man hunt
 - Postal
 - GTA: grand theft auto
-
 
 Sources
 - Computer games and ethical issues - https://ieeexplore-ieee-org.ezproxy.falmouth.ac.uk/document/7011160
