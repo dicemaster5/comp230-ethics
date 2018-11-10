@@ -37,17 +37,45 @@ Sources
 
 A lot of video games have been specifically designed to be as addictive as possible in order to gain player retention and have the player spending their money as much as possible.
 
-For my essay I want to look into these addictive video games and wether it's ethical for developers to take advantage of the players by activley desiging addictive game mechanics to take advantage of the human reward system to increase player retention and make the player feel more compelled to spend their money on the game.
+For my essay I want to look into these addictive video games and wether it's ethical for developers to take advantage of the 
+players by activley desiging addictive game mechanics to take advantage of the human reward system to increase player retention 
+and make the player feel more compelled to spend their money on the game.
 
 Things to talk about:
 - Skinner box method
 - humane game design
+- who's responsability is it? the game developer's or the player's?
 
 types of games to look at:
 - gambling games/casino games (slot machines...ect)
 - MMO RPGS (world of warcraft)
 - F2P games (candy crush)
 - clicker games (cookie clicker)
+
+Structure:
+- Video game addiction, what is it?
+- What are the negative effects?
+- ways in which games are designed to be addictive
+- who's responsability is it?
+- Conclusion and awnser the main question
+
+Addictive aspects of games that keep players playing:
+- Social aspect
+- progression and upgrades
+- exp/currency grinding
+- in-game items/proprety
+- RNG rewards (loot boxes...)
+- they give you a sense of purpose
+- Subscription based games/Pay for it or lose it
+- competitive gameplay
+
+arguments for player responsability:
+it's not about the game, it's about why you play the game
+- escapism, temporary escape from the real world which might be dull and boring
+- social aspect keeps you in, the friends you have are playing the game, so you should too in order to interact with them
+
+Arguments for 
+
 
 sources:
 - Turning Data into People: Player Perspectives on Game Addiction - https://ieeexplore-ieee-org.ezproxy.falmouth.ac.uk/document/7399493
@@ -64,5 +92,11 @@ sources:
 - Free to Play Laws - Can We Stop Predatory Practices? - Extra Credits - https://www.youtube.com/watch?v=PBtXyv0Q1Eg
 - Humane Design - Games Must Be Good to Their Players - Extra Credits - https://www.youtube.com/watch?v=GArkyxP8-n0
 
+rat park guy
+- Effects of early and later colony housing on oral ingestion of morphine in rats. Psychopharmacology Biochemistry and Behavior -http://www.brucekalexander.com/pdf/Rat%20Park%201981%20PB&B.pdf
+- 
+
 Notes:
 It's all about engagment, addtive engagment is bad, engagment should be brought by other game elments such as narative, puzzles...ect (non conditioning)
+
+By developing games that are meant to be addictive, you are putting the lives of people with addictive personalties at risk.
